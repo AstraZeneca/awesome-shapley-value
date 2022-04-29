@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="800" src="https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/base_survey_text.jpg">
+  <img width="800" src="https://github.com/AstraZeneca/awesome-shapley-value/blob/master/cute_robot.jpg">
 </p>
 
 
