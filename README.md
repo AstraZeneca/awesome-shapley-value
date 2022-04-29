@@ -22,8 +22,7 @@ If you find the survey or this repository useful in your research, please consid
   author = {Rozemberczki, Benedek and Watson, Lauren and Bayer, Péter and Yang, Hao-Tsung and Kiss, Olivér and Nilsson, Sebastian and Sarkar, Rik},
   title = {The Shapley Value in Machine Learning},
   publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+  year = {2022}
 }
 
 ```
