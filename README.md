@@ -30,12 +30,7 @@ If you find the survey or this repository useful in your research, please consid
 
 ## Contents  
 
-1. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
-2. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
-3. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
-4. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
-5. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
-6. [A](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/high_level.md)
+1. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/rl.md)
 
 --------------------------------------------------------------------------------
 
