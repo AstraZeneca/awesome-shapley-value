@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="800" src="https://github.com/AstraZeneca/awesome-shapley-value/blob/master/cute_robot.jpg">
+  <img width="600" src="https://github.com/AstraZeneca/awesome-shapley-value/blob/master/cute_robot.jpg">
 </p>
 
 
@@ -36,7 +36,7 @@ If you find the survey or this repository useful in your research, please consid
 4. [Data Valuation](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/data_valuation.md)
 5. [Ensemble Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/ensemble_selection.md)
 6. [Federated Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/federated_learning.md)
-7. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/reinforcement_learning.md)
+7. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/multi_agent_reinforcement_learning.md)
 
 --------------------------------------------------------------------------------
 
