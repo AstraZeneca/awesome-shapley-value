@@ -30,7 +30,7 @@ If you find the survey or this repository useful in your research, please consid
 
 ## Contents  
 
-1. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/rl.md)
+1. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/multi_agent_reinforcement_learning.md)
 
 --------------------------------------------------------------------------------
 
