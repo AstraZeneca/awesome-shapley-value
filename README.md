@@ -31,12 +31,13 @@ If you find the survey or this repository useful in your research, please consid
 ## Contents  
 
 1. [Game Theory Fundamentals](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/fundamentals.md)
-2. [Feature Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/feature_selection.md)
-3. [Explainability](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/explainability.md)
-4. [Data Valuation](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/data_valuation.md)
-5. [Ensemble Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/ensemble_selection.md)
-6. [Federated Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/federated_learning.md)
-7. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/multi_agent_reinforcement_learning.md)
+2. [Approximations](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/approximations.md)
+3. [Feature Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/feature_selection.md)
+4. [Explainability](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/explainability.md)
+5. [Data Valuation](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/data_valuation.md)
+6. [Ensemble Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/ensemble_selection.md)
+7. [Federated Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/federated_learning.md)
+8. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/multi_agent_reinforcement_learning.md)
 
 --------------------------------------------------------------------------------
 

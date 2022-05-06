@@ -1,2 +1,2 @@
-### Reinforcement Learning
+### Game Theory Fundamentals
 
