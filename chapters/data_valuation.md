@@ -1,5 +1,15 @@
 ### Data Valuation
 
+- **Towards Efficient Data Valuation Based on the Shapley Value (AISTATS 2019)**
+  - Ruoxi Jia, David Dao, Boxin Wang, Frances Ann Hubis, Nick Hynes, Nezihe Merve Gürel, Bo Li, Ce Zhang, Dawn Song, Costas J. Spanos
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Data Shapley: Equitable Valuation of Data for Machine Learning (ICML 2019)**
+  - Amirata Ghorbani, James Y. Zou
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Efficient Computation and Analysis of Distributional Shapley Values (AISTATS 2021)**
   - Yongchan Kwon, Manuel A. Rivas, James Zou
   - [[Paper]]( )

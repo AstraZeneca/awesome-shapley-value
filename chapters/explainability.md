@@ -1,5 +1,15 @@
 ### Explainability
 
+- **L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data (ICLR 2019)**
+  - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation (ICML 2019)**
+  - Marco Ancona, Cengiz Öztireli, Markus H. Gross
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Shapley Values and Meta-Explanations for Probabilistic Graphical Model Inference (CIKM 2020)**
   - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, Sihong Xie
   - [[Paper]]( )
@@ -12,6 +22,11 @@
 
 - **The Many Shapley Values for Model Explanation (ICML 2020)**
   - Mukund Sundararajan, Amir Najmi
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **The Shapley Taylor Interaction Index (ICML 2020)**
+  - Mukund Sundararajan, Kedar Dhamdhere, Ashish Agarwal
   - [[Paper]]( )
   - [[Code]]( )
 
