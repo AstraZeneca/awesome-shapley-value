@@ -38,6 +38,7 @@ If you find the survey or this repository useful in your research, please consid
 6. [Ensemble Selection](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/ensemble_selection.md)
 7. [Federated Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/federated_learning.md)
 8. [Reinforcement Learning](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/multi_agent_reinforcement_learning.md)
+9. [Miscellaneous](https://github.com/AstraZeneca/awesome-shapley-value/blob/master/chapters/iscellaneous.md)
 
 --------------------------------------------------------------------------------
 
