@@ -75,3 +75,13 @@
   - Raghav Singal, George Michailidis, Hoiyi Ng
   - [[Paper]]( )
   - [[Code]]( )
+
+- **Threading the Needle of On and Off-Manifold Value Functions for Shapley Explanations (AISTATS 2022)**
+  - Chih-Kuan Yeh, Kuan-Yun Lee, Frederick Liu, Pradeep Ravikumar
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Accurate Shapley Values for explaining tree-based models (AISTATS 2022)**
+  - Salim I. Amoukou, Tangi Salaün, Nicolas J.-B. Brunel
+  - [[Paper]]( )
+  - [[Code]]( )
