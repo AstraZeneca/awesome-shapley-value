@@ -2,8 +2,8 @@
 
 - **A Unified Approach to Interpreting Model Predictions (NeurIPS 2017)**
   - Scott M. Lundberg, Su-In Lee
-  - [[Paper]](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)
-  - [[Code]](https://github.com/slundberg/shap)
+  - [[Paper]](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)
+  - [[Code]](https://github.com/slundberg/shap)
 
 - **L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data (ICLR 2019)**
   - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
