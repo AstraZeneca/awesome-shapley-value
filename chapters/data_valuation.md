@@ -28,3 +28,7 @@
   - Yongchan Kwon, James Zou
   - [[Paper]]( )
   - [[Code]]( )
+
+- **Differentially Private Shapley Values for Data Evaluation (Arxiv 2022)**
+  - Lauren Watson, Rayna Andreeva, Hao-Tsung Yang, Rik Sarkar
+  - [[Paper]](https://arxiv.org/pdf/2206.00511.pdf)
