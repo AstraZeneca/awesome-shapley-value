@@ -6,9 +6,9 @@
   - [[Code]](https://github.com/slundberg/shap)
 
 - **L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data (ICLR 2019)**
-  - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation (ICML 2019)**
   - Marco Ancona, Cengiz Öztireli, Markus H. Gross
