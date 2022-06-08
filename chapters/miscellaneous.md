@@ -1,7 +1,7 @@
 ### Miscellaneous
 
 - **Using the Shapley Value to Analyze Algorithm Portfolios (AAAI 2016)**
-  - Alexandre Fréchette, Lars Kotthoff, Tomasz P. Michalak, Talal Rahwan, Holger H. Hoos, Kevin Leyton-Brown
+  - Alexandre Fréchette, Lars Kotthoff, Tomasz P. Michalak, Talal Rahwan, Holger H. Hoos, Kevin Leyton-Brown
   - [[Paper]]( )
   - [[Code]]( )
 
