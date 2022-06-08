@@ -19,3 +19,8 @@
   - Daniel Deutch, Nave Frost, Amir Gilad, Oren Sheffer
   - [[Paper]]( )
   - [[Code]]( )
+ 
+ - **Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning (AISTATS 2022)**
+  - Yongchan Kwon, James Zou
+  - [[Paper]]( )
+  - [[Code]]( )
