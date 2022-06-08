@@ -1,5 +1,11 @@
 ### Explainability
 
+- **A unified approach to interpreting model predictions (NeurIPS 2017)**
+  - Scott M. Lundberg, Su-In Lee
+  - [[Paper]](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)
+  - [[Code]](https://github.com/slundberg/shap)
+
+
 - **L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data (ICLR 2019)**
   - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
   - [[Paper]]( )
@@ -68,20 +74,18 @@
 
 - **Shapley Explanation Networks (ICLR 2021)**
   - Rui Wang, Xiaoqian Wang, David I. Inouye
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://openreview.net/pdf?id=vsU0efpivw)
+  - [[Code]](https://github.com/inouye-lab/ShapleyExplanationNetworks)
 
 - **Flow-based Attribution in Graphical Models: A Recursive Shapley Approach (ICML 2021)**
   - Raghav Singal, George Michailidis, Hoiyi Ng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v139/singal21a.html)
 
 - **Threading the Needle of On and Off-Manifold Value Functions for Shapley Explanations (AISTATS 2022)**
   - Chih-Kuan Yeh, Kuan-Yun Lee, Frederick Liu, Pradeep Ravikumar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2202.11919)
 
 - **Accurate Shapley Values for explaining tree-based models (AISTATS 2022)**
   - Salim I. Amoukou, Tangi Salaün, Nicolas J.-B. Brunel
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.03820)
+  - [[Code]](https://github.com/salimamoukou/acv00)
