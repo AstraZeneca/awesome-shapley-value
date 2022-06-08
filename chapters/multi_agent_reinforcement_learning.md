@@ -7,5 +7,4 @@
 
 - **Shapley Counterfactual Credits for Multi-Agent Reinforcement Learning (KDD 2021)**
   - Jiahui Li, Kun Kuang, Baoxiang Wang, Furui Liu, Long Chen, Fei Wu, Jun Xiao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.00285)
