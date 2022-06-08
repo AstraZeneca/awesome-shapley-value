@@ -21,7 +21,7 @@
  
 - **Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning (AISTATS 2022)**
    - Yongchan Kwon, James Zou
-   - [[Paper]]()
+   - [[Paper]](https://arxiv.org/abs/2110.14049)
    - [[Code]](https://github.com/ykwon0407/beta_shapley)
 
 - **Differentially Private Shapley Values for Data Evaluation (Arxiv 2022)**
