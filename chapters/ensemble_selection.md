@@ -2,6 +2,6 @@
 
 
 - **The Shapley Value of Classifiers in Ensemble Games (CIKM 2021)**
-  - Benedek Rozemberczki, Rik Sarkar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - Benedek Rozemberczki, Rik Sarkar
+  - [[Paper]]( )
+  - [[Code]]( )
