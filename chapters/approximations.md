@@ -7,5 +7,5 @@
  
 - **Approximating the Shapley Value Using Stratified Empirical Bernstein Sampling (IJCAI 2021)**
   - Mark Alexander Burgess, Archie C. Chapman, 
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/11)
+  - [[Code]](https://github.com/Markopolo141/Stratified_Empirical_Bernstein_Sampling)
