@@ -7,23 +7,21 @@
 
 - **L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data (ICLR 2019)**
   - Jianbo Chen, Le Song, Martin J. Wainwright, Michael I. Jordan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1808.02610.pdf)
+  - [[Code]](https://github.com/Jianbo-Lab/LCShapley)
 
 - **Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation (ICML 2019)**
   - Marco Ancona, Cengiz Öztireli, Markus H. Gross
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v97/ancona19a.html)
+  - [[Code]](https://github.com/marcoancona/DASP)
 
 - **Shapley Values and Meta-Explanations for Probabilistic Graphical Model Inference (CIKM 2020)**
   - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, Sihong Xie
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3340531.3411881)
 
 - **Problems with Shapley-value-based explanations as feature importance measures (ICML 2020)**
   - I. Elizabeth Kumar, Suresh Venkatasubramanian, Carlos Scheidegger, Sorelle A. Friedler
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2002.11097)
 
 - **The Many Shapley Values for Model Explanation (ICML 2020)**
   - Mukund Sundararajan, Amir Najmi
