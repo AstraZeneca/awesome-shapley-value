@@ -47,28 +47,27 @@
 
 - **Neuron Shapley: Discovering the Responsible Neurons (NIPS 2020)**
   - Amirata Ghorbani, James Y. Zou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2002.09815)
+  - [[Code]](https://github.com/amiratag/neuronshapley)
 
 - **Interpreting Multivariate Shapley Interactions in DNNs (AAAI 2021)**
   - Hao Zhang, Yichen Xie, Longjie Zheng, Die Zhang, Quanshi Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.05045)
+  - [[Code]](https://arxiv.org/pdf/2010.05045.pdf)
 
 - **Shapley Flow: A Graph-based Approach to Interpreting Model Predictions (AISTATS 2021)**
   - Jiaxuan Wang, Jenna Wiens, Scott M. Lundberg
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.14592)
+  - [[Code]](https://github.com/nathanwang000/Shapley-Flow)
 
 - **Improving KernelSHAP: Practical Shapley Value Estimation Using Linear Regression (AISTATS 2021)**
   - Ian Covert, Su-In Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2012.01536)
+  - [[Code]](https://github.com/iancovert/shapley-regression)
 
 - **Shapley explainability on the data manifold (ICLR 2021)**
   - Christopher Frye, Damien de Mijolla, Tom Begley, Laurence Cowton, Megan Stanley, Ilya Feige
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2006.01272)
 
 - **Shapley Explanation Networks (ICLR 2021)**
   - Rui Wang, Xiaoqian Wang, David I. Inouye
