@@ -34,6 +34,7 @@
 - **Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability (NIPS 2020)**
   - Christopher Frye, Colin Rowat, Ilya Feige
   - [[Paper]](https://arxiv.org/abs/1910.06358)
+  - [[Code]](https://github.com/nredell/shapflex)
 
 - **Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models (NIPS 2020)**
   - Tom Heskes, Evi Sijben, Ioan Gabriel Bucur, Tom Claassen
