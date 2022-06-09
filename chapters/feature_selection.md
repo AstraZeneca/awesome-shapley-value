@@ -13,6 +13,11 @@
   - [[Paper]](https://arxiv.org/pdf/2006.09481.pdf)
   - [[Code]](https://github.com/bdwilliamson/spvim_supplementary)
 
+- **Interpretable feature subset selection: A Shapley value based approach (Pattern Recognition 2020)**
+  - Brian D. Williamson, Jean Feng
+  - [[Paper]](https://arxiv.org/pdf/2006.09481.pdf)
+  - [[Code]](https://github.com/bdwilliamson/spvim_supplementary)
+
 - **Game-theoretic Vocabulary Selection via the Shapley Value and Banzhaf Index (NAACL 2021)**
   - Roma Patel, Marta Garnelo, Ian M. Gemp, Chris Dyer, Yoram Bachrach,
   - [[Paper]](https://aclanthology.org/2021.naacl-main.223.pdf)
