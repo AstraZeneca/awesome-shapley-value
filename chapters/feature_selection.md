@@ -16,7 +16,7 @@
 - **Interpretable feature subset selection: A Shapley value based approach (Big Data 2020)**
   - Sandhya Tripathi, N. Hemachandra, Prashant Trivedi
   - [[Paper]](https://arxiv.org/abs/2001.03956)
-  - 
+
 - **Game-theoretic Vocabulary Selection via the Shapley Value and Banzhaf Index (NAACL 2021)**
   - Roma Patel, Marta Garnelo, Ian M. Gemp, Chris Dyer, Yoram Bachrach,
   - [[Paper]](https://aclanthology.org/2021.naacl-main.223.pdf)
