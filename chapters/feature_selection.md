@@ -4,6 +4,10 @@
   - Shay B. Cohen, Eytan Ruppin, Gideon Dror
   - [[Paper]](https://dl.acm.org/doi/10.5555/1642293.1642400)
 
+- **Feature evaluation and selection with cooperative game theory (Pattern Recognition 2012)**
+  - Xin Sun, Yanheng Liu, Jin Li, Jianqi Zhu, Huiling Chen, Xuejie Liu
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320312000623)
+
 - **Efficient Nonparametric Statistical Inference on Population Feature Importance Using Shapley Values (ICML 2020)**
   - Brian D. Williamson, Jean Feng
   - [[Paper]](https://arxiv.org/pdf/2006.09481.pdf)
