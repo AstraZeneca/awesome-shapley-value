@@ -76,6 +76,11 @@
   - Raghav Singal, George Michailidis, Hoiyi Ng
   - [[Paper]](https://proceedings.mlr.press/v139/singal21a.html)
 
+- **GraphSVX: Shapley Value Explanations for Graph Neural Networks (ECML PKDD 2021)**
+  - Alexandre Duval and Fragkiskos Malliaros
+  - [[Paper]](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_135.pdf)
+  - [[Code]](https://github.com/AlexDuvalinho/GraphSVX)
+
 - **Threading the Needle of On and Off-Manifold Value Functions for Shapley Explanations (AISTATS 2022)**
   - Chih-Kuan Yeh, Kuan-Yun Lee, Frederick Liu, Pradeep Ravikumar
   - [[Paper]](https://arxiv.org/abs/2202.11919)
