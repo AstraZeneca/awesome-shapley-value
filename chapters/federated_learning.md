@@ -1,6 +1,6 @@
 ### Federated Learning
 
-- **Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games (AAAI 2020)**
-  - Jianhong Wang, Yuan Zhang, Tae-Kyun Kim, Yunjie Gu
-  - [[Paper]](https://arxiv.org/abs/1907.05707)
-  - [[Code]](https://github.com/hsvgbkhgbv/SQDDPG)
+- **GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning (ACM TIST 2022)**
+  - Zelei Liu, Yuanyuan Chen, Han Yu, Yang Liu, Lizhen Cui
+  - [[Paper]](https://dl.acm.org/doi/full/10.1145/3501811)
+  - [[Code]](https://github.com/liuzelei13/GTG-Shapley)
