@@ -15,6 +15,11 @@
   - [[Paper]](http://proceedings.mlr.press/v97/ancona19a.html)
   - [[Code]](https://github.com/marcoancona/DASP)
 
+- **The Explanation Game: Explaining Machine Learning Models Using Shapley Values (MAKE 2020)**
+  - Luke Merrick, Ankur Taly
+  - [[Paper]](https://arxiv.org/abs/1909.08128)
+  - [[Code]](https://github.com/fiddler-labs/the-explanation-game-supplemental)
+
 - **Shapley Values and Meta-Explanations for Probabilistic Graphical Model Inference (CIKM 2020)**
   - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, Sihong Xie
   - [[Paper]](https://dl.acm.org/doi/10.1145/3340531.3411881)
