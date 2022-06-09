@@ -25,7 +25,7 @@
 
 - **The Many Shapley Values for Model Explanation (ICML 2020)**
   - Mukund Sundararajan, Amir Najmi
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1908.08474)
   - [[Code]]( )
 
 - **The Shapley Taylor Interaction Index (ICML 2020)**
@@ -89,3 +89,8 @@
   - Salim I. Amoukou, Tangi Salaün, Nicolas J.-B. Brunel
   - [[Paper]](https://arxiv.org/abs/2106.03820)
   - [[Code]](https://github.com/salimamoukou/acv00)
+
+- **FastSHAP: Real-Time Shapley Value Estimation (ICLR 2022)**
+  - Neil Jethani, Mukund Sudarshan, Ian Covert, Su-In Lee, Rajesh Ranganath
+  - [[Paper]](https://arxiv.org/abs/2107.07436v3)
+  - [[Code]](https://github.com/iancovert/fastshap)
