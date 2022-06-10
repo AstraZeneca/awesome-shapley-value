@@ -1,5 +1,17 @@
 ### Game Theory Fundamentals
 
+- **Configuration values: Extensions of the coalitional Owen value**
+  - Bla
+  - Bla
+
+- **Configuration values: Extensions of the coalitional Owen value**
+  - Bla
+  - Bla
+
+- **Configuration values: Extensions of the coalitional Owen value**
+  - Bla
+  - Bla
+
 - **Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous (IJCAI 2017)**
   - Rohit Vaish, Dinesh Garg
   - [[Paper]](https://www.ijcai.org/proceedings/2017/62)
