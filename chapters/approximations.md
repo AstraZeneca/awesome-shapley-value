@@ -1,5 +1,9 @@
 ### Approximations
 
+- **Multilinear Eztensions of Games (1972)**
+  - Guillermo Owen
+  - [[Paper]](https://www.jstor.org/stable/2661445)
+
 - **A Multilinear Sampling Algorithm to Estimate Shapley Values (ICPR 2020)**
   - Ramin Okhrati and Aldo Lipani
   - [[Paper]](https://arxiv.org/abs/2010.12082)
