@@ -1,12 +1,12 @@
 ### Game Theory Fundamentals
 
 - **A Value for n-Person Games (1953)**
-  - Bla
-  - Bla
+  - Lloyd Shapley
+  - [[Paper]](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM670.pdf)
 
-- **Values of Games whit a priori Unions**
-  - Bla
-  - Bla
+- **Values of Games with a priori Unions**
+  - Guillermo Owen
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-45494-3_7)
 
 - **A Value for Cooperative Games with Levels Structure of Cooperation**
   - Bla
