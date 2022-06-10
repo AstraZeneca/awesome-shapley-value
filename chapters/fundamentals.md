@@ -8,13 +8,13 @@
   - Guillermo Owen
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-45494-3_7)
 
-- **A Value for Cooperative Games with Levels Structure of Cooperation**
-  - Bla
-  - Bla
+- **A Value for Cooperative Games with Levels Structure of Cooperation (1989)**
+  - Eyal Winter
+  - [[Paper]](https://link.springer.com/article/10.1007/BF01268161)
 
 - **Configuration values: Extensions of the coalitional Owen value**
-  - Bla
-  - Bla
+  - M. Josune Albizuri, J. Aurrecoechea, José Manuel Zarzuelo
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0899825605001247)
 
 - **Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous (IJCAI 2017)**
   - Rohit Vaish, Dinesh Garg
