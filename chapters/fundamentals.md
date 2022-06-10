@@ -1,10 +1,14 @@
 ### Game Theory Fundamentals
 
-- **Configuration values: Extensions of the coalitional Owen value**
+- **A Value for n-Person Games (1953)**
   - Bla
   - Bla
 
-- **Configuration values: Extensions of the coalitional Owen value**
+- **Values of Games whit a priori Unions**
+  - Bla
+  - Bla
+
+- **A Value for Cooperative Games with Levels Structure of Cooperation**
   - Bla
   - Bla
 
