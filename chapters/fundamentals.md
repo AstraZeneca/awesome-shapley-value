@@ -4,7 +4,7 @@
   - Lloyd Shapley
   - [[Paper]](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM670.pdf)
 
-- **Values of Games with a priori Unions**
+- **Values of Games with a priori Unions (1977)**
   - Guillermo Owen
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-45494-3_7)
 
