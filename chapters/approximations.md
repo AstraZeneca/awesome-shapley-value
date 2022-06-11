@@ -17,27 +17,26 @@
   - Sasan Maleki, Long Tran-Thanh, Greg Hines, Talal Rahwan, Alex Rogers
   - [[Paper]](https://arxiv.org/abs/1306.4265)
 
-- **Sampling Permutations for Shapley Value Estimation**
+- **Sampling Permutations for Shapley Value Estimation (Arxiv 2021)**
+  - Rory Mitchell, Joshua Cooper, Eibe Frank, Geoffrey Holmes
+  - [[Paper]](https://arxiv.org/abs/2104.12199)
+
+- **A Bayesian Monte Carlo Method for Computing the Shapley Value: Application to Weighted Voting and Bin Packing Games (Computers and Operations Research 2021)**
+  - Sofiane Touati, Mohammed Said Radjef, Lakhdar Sais
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054820302112)
+
+- **Estimation of the Shapley Value by Ergodic Sampling (Arxiv 2019)**
+  - Ferenc Illés, Péter Kerényi
+  - [[Paper]](https://arxiv.org/abs/1906.05224)
+
+- **Improving Polynomial Estimation of the Shapley Value by Stratified Random Sampling with Optimum Allocation ()**
   - Author
   - [[Paper]]()
 
-- **A Bayesian Monte Carlo Method for Computing the Shapley Value: Application to Weighted Voting and Bin Packing Games**
-  - Author
-  - [[Paper]]()
 
-- **Estimation of the Shapley Value by Ergodic Sampling**
-  - Author
-  - [[Paper]]()
-
-- **Improving Polynomial Estimation of the Shapley Value by Stratified Random Sampling with Optimum Allocation**
-  - Author
-  - [[Paper]]()
-
-
-- **Antithetic and Monte Carlo Kernel Estimators for Partial Rankings**
-  - Author
-  - [[Paper]]()
-
+- **Antithetic and Monte Carlo Kernel Estimators for Partial Rankings (Statistics and Computing 2019)**
+  - María Lomelí, Mark Rowland, Arthur Gretton, Zoubin Ghahramani
+  - [[Paper]](https://link.springer.com/article/10.1007/s11222-019-09859-z)
 
 - **A Multilinear Sampling Algorithm to Estimate Shapley Values (ICPR 2020)**
   - Ramin Okhrati and Aldo Lipani
