@@ -6,16 +6,16 @@
 
 
 - **A Linear Approximation Method for the Shapley Value (Artificial Intelligence 2008)**
-  - Shaheen Fatima MichaelWooldridge, Nicholas R.Jennings
+  - Shaheen Fatima, Michael Wooldridge, Nicholas R.Jennings
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0004370208000696)
 
-- **Polynomial Calculation of the Shapley Value Based on Sampling**
-  - Author
-  - [[Paper]]()
+- **Polynomial Calculation of the Shapley Value Based on Sampling (Computers and Operations Research 2009)**
+  - Javier Castro, Daniel Gómez, Juan Tejadab
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0305054808000804)
 
-- **Bounding the Estimation Error of Sampling-based Shapley Value Approximation**
-  - Author
-  - [[Paper]]()
+- **Bounding the Estimation Error of Sampling-based Shapley Value Approximation (Arxiv 2013)**
+  - Sasan Maleki, Long Tran-Thanh, Greg Hines, Talal Rahwan, Alex Rogers
+  - [[Paper]](https://arxiv.org/abs/1306.4265)
 
 - **Sampling Permutations for Shapley Value Estimation**
   - Author
