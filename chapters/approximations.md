@@ -9,19 +9,35 @@
   - Shaheen Fatima MichaelWooldridge, Nicholas R.Jennings
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0004370208000696)
 
-Polynomial Calculation of the Shapley Value Based on Sampling
+- **Polynomial Calculation of the Shapley Value Based on Sampling**
+  - Author
+  - [[Paper]]()
 
-Bounding the Estimation Error of Sampling-based Shapley Value Approximation
+- **Bounding the Estimation Error of Sampling-based Shapley Value Approximation**
+  - Author
+  - [[Paper]]()
 
-Sampling Permutations for Shapley Value Estimation
+- **Sampling Permutations for Shapley Value Estimation**
+  - Author
+  - [[Paper]]()
 
-A Bayesian Monte Carlo Method for Computing the Shapley Value: Application to Weighted Voting and Bin Packing Games
+- **A Bayesian Monte Carlo Method for Computing the Shapley Value: Application to Weighted Voting and Bin Packing Games**
+  - Author
+  - [[Paper]]()
 
-Estimation of the Shapley Value by Ergodic Sampling
+- **Estimation of the Shapley Value by Ergodic Sampling**
+  - Author
+  - [[Paper]]()
 
-Improving Polynomial Estimation of the Shapley Value by Stratified Random Sampling with Optimum Allocation
+- **Improving Polynomial Estimation of the Shapley Value by Stratified Random Sampling with Optimum Allocation**
+  - Author
+  - [[Paper]]()
 
-Antithetic and Monte Carlo Kernel Estimators for Partial Rankings
+
+- **Antithetic and Monte Carlo Kernel Estimators for Partial Rankings**
+  - Author
+  - [[Paper]]()
+
 
 - **A Multilinear Sampling Algorithm to Estimate Shapley Values (ICPR 2020)**
   - Ramin Okhrati and Aldo Lipani
