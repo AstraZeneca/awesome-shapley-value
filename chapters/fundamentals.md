@@ -12,7 +12,7 @@
   - Eyal Winter
   - [[Paper]](https://link.springer.com/article/10.1007/BF01268161)
 
-- **Configuration values: Extensions of the coalitional Owen value**
+- **Configuration values: Extensions of the coalitional Owen value (2006)**
   - M. Josune Albizuri, J. Aurrecoechea, José Manuel Zarzuelo
   - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0899825605001247)
 
