@@ -96,3 +96,8 @@
   - Neil Jethani, Mukund Sudarshan, Ian Covert, Su-In Lee, Rajesh Ranganath
   - [[Paper]](https://arxiv.org/abs/2107.07436v3)
   - [[Code]](https://github.com/iancovert/fastshap)
+
+- **Accelerating Shapley Explanation via Contributive Cooperator Selection (ICML 2022)**
+  - Guanchu Wang, Yu-Neng Chuang, Mengnan Du, Fan Yang, Quan Zhou, Pushkar Tripathi, Xuanting Cai, Xia Hu
+  - [[Paper]](https://arxiv.org/abs/2206.08529)
+  - [[Code]](https://github.com/guanchuwang/SHEAR)
