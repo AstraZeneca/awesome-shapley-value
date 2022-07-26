@@ -18,11 +18,14 @@ This repository accompanies our survey paper [The Shapley Value in Machine Learn
 If you find the survey or this repository useful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{shapley,
-  author = {Rozemberczki, Benedek and Watson, Lauren and Bayer, Péter and Yang, Hao-Tsung and Kiss, Olivér and Nilsson, Sebastian and Sarkar, Rik},
-  title = {The Shapley Value in Machine Learning},
-  publisher = {arXiv},
-  year = {2022}
+@inproceedings{shapleysurvey,
+    title     = {The Shapley Value in Machine Learning},
+    author    = {Rozemberczki, Benedek and Watson, Lauren and Bayer, Péter and Yang, Hao-Tsung and Kiss, Olivér and Nilsson, Sebastian and Sarkar, Rik},
+    booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+    publisher = {International Joint Conferences on Artificial Intelligence Organization},
+    pages     = {5572--5579},
+    year      = {2022},
 }
 
 ```
