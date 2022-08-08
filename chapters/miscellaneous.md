@@ -27,3 +27,7 @@
 - **Shapley Meets Uniform: An Axiomatic Framework for Attribution in Online Advertising (WWW 2019)**
   - Omar Besbes, Antoine Désir, Vineet Goyal, Garud Iyengar, Raghav Singal
   - [[Paper]](https://www.insead.edu/sites/default/files/assets/faculty-personal-site/antoine-desir/documents/p1713-besbes.pdf)
+
+- **On the Convergence of the Shapley Value in Parametric Bayesian Learning Games (ICML 2022)**
+  - Lucas Agussurja, Xinyi Xu, Bryan Kian Hsiang Low
+  - [[Paper]](https://proceedings.mlr.press/v162/agussurja22a.html)
