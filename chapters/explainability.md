@@ -101,3 +101,7 @@
   - Guanchu Wang, Yu-Neng Chuang, Mengnan Du, Fan Yang, Quan Zhou, Pushkar Tripathi, Xuanting Cai, Xia Hu
   - [[Paper]](https://arxiv.org/abs/2206.08529)
   - [[Code]](https://github.com/guanchuwang/SHEAR)
+
+- **Algorithms to Estimate Shapley Value Feature Attributions (Arxiv 2022)**
+  - Hugh Chen, Ian C. Covert, Scott M. Lundberg, Su-In Lee
+  - [[Paper]](https://arxiv.org/abs/2207.07605)
